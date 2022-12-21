@@ -21,5 +21,4 @@ public class MarkingController {
         default -> throw new IllegalStateException("Unexpected value: " + percentage);
     };
     }
-
 }
